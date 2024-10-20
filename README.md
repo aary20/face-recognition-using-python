@@ -39,13 +39,13 @@ This project implements a simple and efficient face recognition system using Pyt
  1. To recognize faces from an image:
 
 ```bash
-   python proj.py --image <path_to_image>
+   python program.py --image <path_to_image>
 
 ```
 
   2. For real-time face recognition using a webcam:
 ```bash
-    python proj.py --webcam
+    python program.py --webcam
 ```
  ### Adding new faces
 - Place the images of new faces in the ```known_faces```/ directory.
